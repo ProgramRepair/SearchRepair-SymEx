@@ -68,7 +68,6 @@ Then:
 
 It will spit out a gigantic pile of warnings; so long as no errors are issued (I grep for them), the warnings can be ignored.
 
-
 ### How can I tell if it works? ###
 
 At the toplevel of this repository, edit the Makefile so that the PATH\_TO\_Z3A points to the ML API directory on your machine.
